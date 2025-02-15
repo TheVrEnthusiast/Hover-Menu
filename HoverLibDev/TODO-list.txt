@@ -1,0 +1,28 @@
+To start if you see this you ripped the mod. Good job, i mean i might make it open source to so idk.
+but hey whatever floats your boat. Look at my Scripts and See how you can either one to it in your mod like make a custom panel,
+or you could take the button creation logic and use it for your mods.
+lets get on to my todo list tho.
+
+//////////////////////////////////
+
+**TO DO **
+
+1.scene menu
+	{ 
+	  added refrances for the menu , added place holders for the  CreateSceneMenuUI.
+	  added the The Keybind. and Created the custom button logic for the menu.
+	  ---------
+	  Need to Make the script for the Menu, and Initalize it.
+	  Need to make the ui clean.
+	}
+
+2.Make thunderstore page.
+
+3.Add a auto updater(WHEN I MAKE THE THUNDERSTORE PAGE) -PLUGIN-
+
+4.Help Menu.(also but at the top left a msg on how to open the help menu(AKA H key))
+
+5. make the menu worldscale and have it mounted to the left hand.
+   and opens with a button always on the top right of the screen
+
+6.MAKE MOD LOADING WORK!

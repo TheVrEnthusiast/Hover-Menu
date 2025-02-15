@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smith\\source\\repos\\HoverLibDev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|c:\\users\\smith\\source\\repos\\hoverlibdev\\hoverlibdev\\todo-list.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|solutionrelative:hoverlibdev\\todo-list.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|c:\\users\\smith\\source\\repos\\hoverlibdev\\hoverlibdev\\debugmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|solutionrelative:hoverlibdev\\debugmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|C:\\Users\\smith\\source\\repos\\HoverLibDev\\hoverlibdev\\eventsysteminitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|solutionrelative:hoverlibdev\\eventsysteminitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|C:\\Users\\smith\\source\\repos\\HoverLibDev\\hoverlibdev\\modloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|solutionrelative:hoverlibdev\\modloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|C:\\Users\\smith\\source\\repos\\HoverLibDev\\hoverlibdev\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|solutionrelative:hoverlibdev\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TODO-list.txt",
+              "DocumentMoniker": "C:\\Users\\smith\\source\\repos\\HoverLibDev\\HoverLibDev\\TODO-list.txt",
+              "RelativeDocumentMoniker": "HoverLibDev\\TODO-list.txt",
+              "ToolTip": "C:\\Users\\smith\\source\\repos\\HoverLibDev\\HoverLibDev\\TODO-list.txt",
+              "RelativeToolTip": "HoverLibDev\\TODO-list.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-15T04:15:43.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModLoader.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\source\\repos\\HoverLibDev\\HoverLibDev\\ModLoader.cs",
+              "RelativeDocumentMoniker": "HoverLibDev\\ModLoader.cs",
+              "ToolTip": "C:\\Users\\smith\\source\\repos\\HoverLibDev\\HoverLibDev\\ModLoader.cs",
+              "RelativeToolTip": "HoverLibDev\\ModLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:46:18.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventSystemInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\source\\repos\\HoverLibDev\\HoverLibDev\\EventSystemInitializer.cs",
+              "RelativeDocumentMoniker": "HoverLibDev\\EventSystemInitializer.cs",
+              "ToolTip": "C:\\Users\\smith\\source\\repos\\HoverLibDev\\HoverLibDev\\EventSystemInitializer.cs",
+              "RelativeToolTip": "HoverLibDev\\EventSystemInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T03:01:44.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DebugMenu.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\source\\repos\\HoverLibDev\\HoverLibDev\\DebugMenu.cs",
+              "RelativeDocumentMoniker": "HoverLibDev\\DebugMenu.cs",
+              "ToolTip": "C:\\Users\\smith\\source\\repos\\HoverLibDev\\HoverLibDev\\DebugMenu.cs",
+              "RelativeToolTip": "HoverLibDev\\DebugMenu.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAqwOsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:26:14.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\source\\repos\\HoverLibDev\\HoverLibDev\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HoverLibDev\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\smith\\source\\repos\\HoverLibDev\\HoverLibDev\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "HoverLibDev\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T18:41:26.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
