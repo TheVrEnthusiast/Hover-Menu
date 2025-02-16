@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smith\\OneDrive\\Documents\\GitHub\\Hover-Menu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|c:\\users\\smith\\onedrive\\documents\\github\\hover-menu\\hoverlibdev\\debugmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|solutionrelative:hoverlibdev\\debugmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|c:\\users\\smith\\onedrive\\documents\\github\\hover-menu\\hoverlibdev\\modloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|solutionrelative:hoverlibdev\\modloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|c:\\users\\smith\\onedrive\\documents\\github\\hover-menu\\hoverlibdev\\eventsysteminitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61D39FC-2E8E-47E3-B7DB-B29E104DCF97}|HoverLibDev\\DebugMenu.csproj|solutionrelative:hoverlibdev\\eventsysteminitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModLoader.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive\\Documents\\GitHub\\Hover-Menu\\HoverLibDev\\ModLoader.cs",
+              "RelativeDocumentMoniker": "HoverLibDev\\ModLoader.cs",
+              "ToolTip": "C:\\Users\\smith\\OneDrive\\Documents\\GitHub\\Hover-Menu\\HoverLibDev\\ModLoader.cs",
+              "RelativeToolTip": "HoverLibDev\\ModLoader.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T00:04:23.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventSystemInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive\\Documents\\GitHub\\Hover-Menu\\HoverLibDev\\EventSystemInitializer.cs",
+              "RelativeDocumentMoniker": "HoverLibDev\\EventSystemInitializer.cs",
+              "ToolTip": "C:\\Users\\smith\\OneDrive\\Documents\\GitHub\\Hover-Menu\\HoverLibDev\\EventSystemInitializer.cs",
+              "RelativeToolTip": "HoverLibDev\\EventSystemInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T00:04:21.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DebugMenu.cs",
+              "DocumentMoniker": "C:\\Users\\smith\\OneDrive\\Documents\\GitHub\\Hover-Menu\\HoverLibDev\\DebugMenu.cs",
+              "RelativeDocumentMoniker": "HoverLibDev\\DebugMenu.cs",
+              "ToolTip": "C:\\Users\\smith\\OneDrive\\Documents\\GitHub\\Hover-Menu\\HoverLibDev\\DebugMenu.cs",
+              "RelativeToolTip": "HoverLibDev\\DebugMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T00:04:15.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
